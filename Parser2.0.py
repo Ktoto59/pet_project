@@ -107,7 +107,7 @@ def write_csv(data):
 						 data['Hair'],
 						 data['Weight'],
 						 data['Photo'],
-						 data['urls_info']))
+						 data['full_offender_url']))
 
 
 if __name__ == '__main__':
